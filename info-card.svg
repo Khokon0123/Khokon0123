@@ -1,0 +1,123 @@
+<svg viewBox="0 0 490 302" width="490" height="302"
+     xmlns="http://www.w3.org/2000/svg" style="background:transparent">
+  <rect x="0" y="0" width="490" height="302" rx="10"
+        fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <rect x="0" y="0" width="490" height="30" rx="10" fill="#161b22" />
+  <rect x="0" y="16" width="490" height="14" fill="#161b22" />
+  <circle cx="18" cy="15" r="5" fill="#f78166" />
+  <circle cx="36" cy="15" r="5" fill="#e3b341" />
+  <circle cx="54" cy="15" r="5" fill="#39d353" />
+  <text x="245.0" y="20" font-family="'JetBrains Mono','Fira Code',monospace"
+        font-size="12" fill="#7d8590" text-anchor="middle">khokon@github</text>
+  
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.0s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="46" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">OS</text>
+      <text x="120" y="46" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">Bangladesh -&gt; Ohio, USA</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.09s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.09s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="70" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Host</text>
+      <text x="120" y="70" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">Ohio Wesleyan University '29</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.18s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="94" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Kernel</text>
+      <text x="120" y="94" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">Computer Science, GPA 3.89</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.27s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="118" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Now</text>
+      <text x="120" y="118" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">CTO @ EUNRI | SWE Intern @ ByteWright</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.36s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="142" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Prev</text>
+      <text x="120" y="142" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">OnlySwap - 2nd place, HackPrinceton</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.45s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="166" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Stack</text>
+      <text x="120" y="166" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">Python, React Native, C++, Supabase</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.54s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="190" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Papers</text>
+      <text x="120" y="190" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">ICCSIS 2026 Toronto | ICCIE 2026 Paris</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.63s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="214" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Leads</text>
+      <text x="120" y="214" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">President, OWU Robotics + Debate Club</text>
+    </g>
+
+    <g opacity="0" transform="translate(-12,0)">
+        <animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate"
+                           from="-12,0" to="0,0" begin="0.72s" dur="0.4s"
+                           fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      <text x="24" y="238" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" font-weight="600" fill="#39d353">Roots</text>
+      <text x="120" y="238" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="13" fill="#c9d1d9">Founder, Green Education (Bangladesh)</text>
+    </g>
+  <rect x="24" y="276" width="16" height="16" rx="3" fill="#f78166" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="0.81s" dur="0.25s" fill="freeze" /></rect>
+<rect x="46" y="276" width="16" height="16" rx="3" fill="#e3b341" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="0.85s" dur="0.25s" fill="freeze" /></rect>
+<rect x="68" y="276" width="16" height="16" rx="3" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="0.89s" dur="0.25s" fill="freeze" /></rect>
+<rect x="90" y="276" width="16" height="16" rx="3" fill="#58a6ff" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="0.93s" dur="0.25s" fill="freeze" /></rect>
+<rect x="112" y="276" width="16" height="16" rx="3" fill="#bc8cff" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="0.97s" dur="0.25s" fill="freeze" /></rect>
+<rect x="134" y="276" width="16" height="16" rx="3" fill="#f778ba" opacity="0"><animate attributeName="opacity" from="0" to="1"
+                 begin="1.01s" dur="0.25s" fill="freeze" /></rect>
+</svg>

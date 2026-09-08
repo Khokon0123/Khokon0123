@@ -1,0 +1,1012 @@
+<svg viewBox="0 0 560 497" width="560" height="497"
+     xmlns="http://www.w3.org/2000/svg" style="background:transparent">
+  <defs></defs>
+  <g transform="translate(10,15)">
+    <clipPath id="clip-row-0">
+      <rect x="0" y="-9.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="9.399999999999999"
+                 begin="0.0s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-0)">
+      <text x="0" y="0.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve"> </text>
+      <rect x="0" y="-9.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="5.3999999999999995"
+                 begin="0.0s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.5s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-1">
+      <rect x="0" y="0.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="9.399999999999999"
+                 begin="0.045s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-1)">
+      <text x="0" y="9.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve"> </text>
+      <rect x="0" y="0.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="5.3999999999999995"
+                 begin="0.045s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.545s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-2">
+      <rect x="0" y="9.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="9.399999999999999"
+                 begin="0.09s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-2)">
+      <text x="0" y="18.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve"> </text>
+      <rect x="0" y="9.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="5.3999999999999995"
+                 begin="0.09s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.59s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-3">
+      <rect x="0" y="18.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="349.59999999999997"
+                 begin="0.135s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-3)">
+      <text x="0" y="27.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                                        `::--:`.</text>
+      <rect x="0" y="18.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="345.59999999999997"
+                 begin="0.135s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.635s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-4">
+      <rect x="0" y="27.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="392.79999999999995"
+                 begin="0.18s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-4)">
+      <text x="0" y="36.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                                   .`:-=*cssscc++****=:.</text>
+      <rect x="0" y="27.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="388.79999999999995"
+                 begin="0.18s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.6799999999999999s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-5">
+      <rect x="0" y="36.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="403.59999999999997"
+                 begin="0.225s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-5)">
+      <text x="0" y="45.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                                .:-=*cs####%%#########c*-.</text>
+      <rect x="0" y="36.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="399.59999999999997"
+                 begin="0.225s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.725s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-6">
+      <rect x="0" y="45.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="414.4"
+                 begin="0.27s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-6)">
+      <text x="0" y="54.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                               `=+cs###%%#sc*+++==++*csc*+-`</text>
+      <rect x="0" y="45.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="410.4"
+                 begin="0.27s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.77s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-7">
+      <rect x="0" y="54.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="425.19999999999993"
+                 begin="0.315s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-7)">
+      <text x="0" y="63.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                               `+s######sc+=----:::::=*cccc*=`</text>
+      <rect x="0" y="54.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="421.19999999999993"
+                 begin="0.315s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.815s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-8">
+      <rect x="0" y="63.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="435.99999999999994"
+                 begin="0.36s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-8)">
+      <text x="0" y="72.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                              `+ssss###c**++==::::`:::=csssc*=:.</text>
+      <rect x="0" y="63.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="431.99999999999994"
+                 begin="0.36s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.86s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-9">
+      <rect x="0" y="72.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="435.99999999999994"
+                 begin="0.405s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-9)">
+      <text x="0" y="81.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             `*ss#####c****++++=:-=++==*sscc*+-`</text>
+      <rect x="0" y="72.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="431.99999999999994"
+                 begin="0.405s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.905s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-10">
+      <rect x="0" y="81.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="435.99999999999994"
+                 begin="0.45s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-10)">
+      <text x="0" y="90.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             -c#######c+=----=++:-=+===+sssssc-.</text>
+      <rect x="0" y="81.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="431.99999999999994"
+                 begin="0.45s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.95s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-11">
+      <rect x="0" y="90.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="430.59999999999997"
+                 begin="0.495s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-11)">
+      <text x="0" y="99.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             .=#%%#s#c*+-```-++=`:::```-s####c:</text>
+      <rect x="0" y="90.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="426.59999999999997"
+                 begin="0.495s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="0.995s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-12">
+      <rect x="0" y="99.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="430.59999999999997"
+                 begin="0.54s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-12)">
+      <text x="0" y="108.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                              `c##%cc**+++***cc*+*=-=--=s%##s=.</text>
+      <rect x="0" y="99.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="426.59999999999997"
+                 begin="0.54s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.04s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-13">
+      <rect x="0" y="108.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="425.19999999999993"
+                 begin="0.585s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-13)">
+      <text x="0" y="117.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             `+s#%%%%c*+=+*c*=---+**c*+*%%##+`</text>
+      <rect x="0" y="108.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="421.19999999999993"
+                 begin="0.585s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.085s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-14">
+      <rect x="0" y="117.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="419.79999999999995"
+                 begin="0.63s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-14)">
+      <text x="0" y="126.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             .=s%%%%%#sc*=--===----=+++#%##c`</text>
+      <rect x="0" y="117.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="415.79999999999995"
+                 begin="0.63s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.13s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-15">
+      <rect x="0" y="126.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="414.4"
+                 begin="0.675s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-15)">
+      <text x="0" y="135.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                              =s##%%@#ssssc*+======+*s%%##*`</text>
+      <rect x="0" y="126.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="410.4"
+                 begin="0.675s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.175s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-16">
+      <rect x="0" y="135.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="408.99999999999994"
+                 begin="0.72s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-16)">
+      <text x="0" y="144.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                             :*s###s*sc*csscccccc***c%%%%#=</text>
+      <rect x="0" y="135.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="404.99999999999994"
+                 begin="0.72s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.22s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-17">
+      <rect x="0" y="144.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="408.99999999999994"
+                 begin="0.765s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-17)">
+      <text x="0" y="153.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                           .-===+++=:+*+++*******+=+=+css+`</text>
+      <rect x="0" y="144.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="404.99999999999994"
+                 begin="0.765s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.2650000000000001s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-18">
+      <rect x="0" y="153.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="430.59999999999997"
+                 begin="0.81s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-18)">
+      <text x="0" y="162.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                     ..`:-++=+++=--=-:-+**+******+*+::`::--:`..</text>
+      <rect x="0" y="153.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="426.59999999999997"
+                 begin="0.81s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.31s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-19">
+      <rect x="0" y="162.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="452.19999999999993"
+                 begin="0.855s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-19)">
+      <text x="0" y="171.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                 `:-===++*=-=**+++=+++-:-=********+--::-==---::-``.</text>
+      <rect x="0" y="162.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="448.19999999999993"
+                 begin="0.855s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.355s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-20">
+      <rect x="0" y="171.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="462.99999999999994"
+                 begin="0.9s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-20)">
+      <text x="0" y="180.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                             .:=+*++=++==++--=--=+=--=----:-+***c=-==-==--:-+=--==::.</text>
+      <rect x="0" y="171.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="458.99999999999994"
+                 begin="0.9s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.4s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-21">
+      <rect x="0" y="180.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="468.4"
+                 begin="0.945s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-21)">
+      <text x="0" y="189.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                            =+cc**++:==-:---++c+=-``::`:-++-:+cs-:+==--::-+-:==++==:=:</text>
+      <rect x="0" y="180.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="464.4"
+                 begin="0.945s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.4449999999999998s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-22">
+      <rect x="0" y="189.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="473.79999999999995"
+                 begin="0.99s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-22)">
+      <text x="0" y="198.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                           +c**++*--==+`-::==++--===::-=+=----*c=+*=+=::-::==++=--+-=-:</text>
+      <rect x="0" y="189.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="469.79999999999995"
+                 begin="0.99s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.49s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-23">
+      <rect x="0" y="198.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="484.59999999999997"
+                 begin="1.035s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-23)">
+      <text x="0" y="207.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                         .+cc++:+*-=c=c-::=*==:=--=++*++-`-*c**=+=:-==*=:-+**+-:-=+*++:-.</text>
+      <rect x="0" y="198.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="480.59999999999997"
+                 begin="1.035s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.535s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-24">
+      <rect x="0" y="207.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="489.99999999999994"
+                 begin="1.08s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-24)">
+      <text x="0" y="216.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                         -+c*-=--+*:==+*=++=::+c+==+===++==--=c=::+c*=:==++-:cs**+cc+*=-=.</text>
+      <rect x="0" y="207.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="485.99999999999994"
+                 begin="1.08s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.58s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-25">
+      <rect x="0" y="216.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.125s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-25)">
+      <text x="0" y="225.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                        :+=**==+*+**+*=+c*++++=--===-::-==+==+s=+=-==-=*+=----=-+cs+=+-:-=`</text>
+      <rect x="0" y="216.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.125s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.625s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-26">
+      <rect x="0" y="225.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.17s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-26)">
+      <text x="0" y="234.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                       :==**+*+--=+c++sss+=====*==-``--`:-==c+s-:-++*+*=-:::--:--cc=+-=:-:-</text>
+      <rect x="0" y="225.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.17s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.67s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-27">
+      <rect x="0" y="234.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.215s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-27)">
+      <text x="0" y="243.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                     .-++=*+-+--+*+++*%s+=---===-+===:`-==+=:-c=+=++s+*=:`-.`-+-:sc*++---:::</text>
+      <rect x="0" y="234.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.215s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.715s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-28">
+      <rect x="0" y="243.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="506.19999999999993"
+                 begin="1.26s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-28)">
+      <text x="0" y="252.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                     -+=--+=-=+:-==-*ssc*=+*+=-=====+=+++=:=**c*+++=--=+*=:`--::*s+====+----:</text>
+      <rect x="0" y="243.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="502.19999999999993"
+                 begin="1.26s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.76s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-29">
+      <rect x="0" y="252.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="511.59999999999997"
+                 begin="1.305s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-29)">
+      <text x="0" y="261.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    :+++--==:-++==+*s%s=+cc*+-+sc=:-=-+=+=-=**c*==:-*c=:=+++=:::*s*+--=-`:---.</text>
+      <rect x="0" y="252.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="507.59999999999997"
+                 begin="1.305s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.805s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-30">
+      <rect x="0" y="261.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="506.19999999999993"
+                 begin="1.35s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-30)">
+      <text x="0" y="270.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                   `=-+===+++--*+*+c#*c*c+-=+===--+++-::=+++-:+c=+--=+=-====+-:.`sc+++=`:*+:.</text>
+      <rect x="0" y="261.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="502.19999999999993"
+                 begin="1.35s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.85s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-31">
+      <rect x="0" y="270.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.395s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-31)">
+      <text x="0" y="279.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                   .-=======-=::+*s#s+**c*=:--+++=+=-:--::-+=c**:==+=-+*c=--====-sssccc+c+.</text>
+      <rect x="0" y="270.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.395s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.895s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-32">
+      <rect x="0" y="279.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.44s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-32)">
+      <text x="0" y="288.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                     +#s**--+**++=-+=+s*==++++=+*-+--:---===+==*::=+cc+=:-=:--*+*#%%%#s*c*:</text>
+      <rect x="0" y="279.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.44s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.94s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-33">
+      <rect x="0" y="288.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.485s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-33)">
+      <text x="0" y="297.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    `c%%##scccc+`  `==+*c*-:+sc+-:==+---=++=::-++s===-=-::`-++-:`-%%##**ss+</text>
+      <rect x="0" y="288.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.485s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="1.985s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-34">
+      <rect x="0" y="297.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.53s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-34)">
+      <text x="0" y="306.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    =###ssss##c`    =-:*c**+=--+s+=-=+=*=+-:-*c*+-+=:-+-==++==::`:#%#s*cscc:</text>
+      <rect x="0" y="297.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.53s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.0300000000000002s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-35">
+      <rect x="0" y="306.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.575s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-35)">
+      <text x="0" y="315.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    +###scss#+.   .`*c-:-=cc*+-=*=--=*+*+**==--:+==::+*----:::`-`-#%#c+cscc=</text>
+      <rect x="0" y="306.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.575s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.075s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-36">
+      <rect x="0" y="315.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.62s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-36)">
+      <text x="0" y="324.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    =###scccsc=`..:=++c+++==+cc++:=*+++-=+***+==*==+==--=-``:- :::s##**cccc=</text>
+      <rect x="0" y="315.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.62s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.12s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-37">
+      <rect x="0" y="324.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.665s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-37)">
+      <text x="0" y="333.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                    `c##sscccss*::=-+**+--::--=css-=-::=+-=+cc#s++:=*ssc+---=-``=:*#s+*sccc-</text>
+      <rect x="0" y="324.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.665s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.165s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-38">
+      <rect x="0" y="333.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="500.79999999999995"
+                 begin="1.71s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-38)">
+      <text x="0" y="342.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                     -##sccccccsc*c+=-+c*+=-::=+*c==---:`:=++*+=++-*+*---:`::`:.-=+#s*ssccc`</text>
+      <rect x="0" y="333.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="496.79999999999995"
+                 begin="1.71s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.21s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-39">
+      <rect x="0" y="342.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.755s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-39)">
+      <text x="0" y="351.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                     .*%ssc****cs#ss*=====+++==--=****+-=--=:-+**+++=`:-::::`::..=+sc*ss*c=</text>
+      <rect x="0" y="342.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.755s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.255s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-40">
+      <rect x="0" y="351.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.8s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-40)">
+      <text x="0" y="360.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">       .              .c%#sc****c#*cc*++=-=-=++-`=*+=-+**+=-`-=**+*=:.-+=.`::==:`:+c*s#ccc:</text>
+      <rect x="0" y="351.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.8s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.3s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-41">
+      <rect x="0" y="360.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.845s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-41)">
+      <text x="0" y="369.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                       .+##s**++*ss++*=+c*:``-=++::---+====+-::::+***:::::-:`::``:=c*s#ccc`</text>
+      <rect x="0" y="360.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.845s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.3449999999999998s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-42">
+      <rect x="0" y="369.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="495.4"
+                 begin="1.89s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-42)">
+      <text x="0" y="378.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                         -s#s**++*sc+==++*=:`.:-*******+--=+++*+c+*+s***++=`````:`=+*sscc*.</text>
+      <rect x="0" y="369.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="491.4"
+                 begin="1.89s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.3899999999999997s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-43">
+      <rect x="0" y="378.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="489.99999999999994"
+                 begin="1.935s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-43)">
+      <text x="0" y="387.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                          .*##c*++*ss+++=-=*-:-:-=--===*+++*cc*+ccc#c*+:::-::-:`-++=*sccs=</text>
+      <rect x="0" y="378.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="485.99999999999994"
+                 begin="1.935s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.435s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-44">
+      <rect x="0" y="387.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="489.99999999999994"
+                 begin="1.98s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-44)">
+      <text x="0" y="396.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                            -s%sc**c#%s*=--=+=-::-**+-=++*+++:-+c*=*+-`:=-`:-:-*#s+=*ss#c`</text>
+      <rect x="0" y="387.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="485.99999999999994"
+                 begin="1.98s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.48s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-45">
+      <rect x="0" y="396.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="484.59999999999997"
+                 begin="2.025s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-45)">
+      <text x="0" y="405.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                             .+##s*ccssss+=::=+++---==++==+**+-:---+#+.`::``-.-#cc**cs##:</text>
+      <rect x="0" y="396.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="480.59999999999997"
+                 begin="2.025s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.525s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-46">
+      <rect x="0" y="405.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="479.19999999999993"
+                 begin="2.07s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-46)">
+      <text x="0" y="414.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                               =##sscccsssc=-=:=++c=+-``::`-=-=::=-+%%c-:::`-=#%%c*cs##-</text>
+      <rect x="0" y="405.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="475.19999999999993"
+                 begin="2.07s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.57s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-47">
+      <rect x="0" y="414.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="473.79999999999995"
+                 begin="2.115s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-47)">
+      <text x="0" y="423.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                               .=###ssssss#scs*---+**=``::::--==--`*%sss*::::c=**`:+**-</text>
+      <rect x="0" y="414.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="469.79999999999995"
+                 begin="2.115s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.615s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-48">
+      <rect x="0" y="423.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="468.4"
+                 begin="2.16s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-48)">
+      <text x="0" y="432.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                :c%%##ssssssssssc=:-:::`:----:::-::*ss*+c+---=-----==-</text>
+      <rect x="0" y="423.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="464.4"
+                 begin="2.16s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.66s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-49">
+      <rect x="0" y="432.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="468.4"
+                 begin="2.205s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-49)">
+      <text x="0" y="441.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                `=*#%%####sccss#s#s*=`:---::`::`::=+-=+++***+::*+=-=-:</text>
+      <rect x="0" y="432.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="464.4"
+                 begin="2.205s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.705s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-50">
+      <rect x="0" y="441.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="468.4"
+                 begin="2.25s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-50)">
+      <text x="0" y="450.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                .-=+cssscc*+++*css#cc*=:-:`:+++-`:s*-+**+**cc+*c*=-+-:</text>
+      <rect x="0" y="441.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="464.4"
+                 begin="2.25s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.75s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-51">
+      <rect x="0" y="450.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="468.4"
+                 begin="2.295s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-51)">
+      <text x="0" y="459.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                 :+++++=+===----=+*==+++*++-:::::*#c=****csccccc*=++-`</text>
+      <rect x="0" y="450.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="464.4"
+                 begin="2.295s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.795s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+
+    <clipPath id="clip-row-52">
+      <rect x="0" y="459.0" width="0" height="11.0">
+        <animate attributeName="width" from="0" to="462.99999999999994"
+                 begin="2.34s" dur="0.5s"
+                 fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" />
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip-row-52)">
+      <text x="0" y="468.0" font-family="'JetBrains Mono','Fira Code',monospace"
+            font-size="9" fill="#adbac7" xml:space="preserve">                                 `=+=++===--:`::--=+++**cccc+=*==c#c*cc*cscccccc*+*=:</text>
+      <rect x="0" y="459.0" width="2" height="9.0" fill="#adbac7" opacity="0.85">
+        <animate attributeName="x" from="0" to="458.99999999999994"
+                 begin="2.34s" dur="0.5s" fill="freeze"
+                 calcMode="spline" keySplines="0.2 0 0.2 1" />
+        <animate attributeName="opacity" from="0.85" to="0"
+                 begin="2.84s" dur="0.15s" fill="freeze" />
+      </rect>
+    </g>
+  </g>
+</svg>
