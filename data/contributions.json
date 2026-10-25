@@ -2,41 +2,6 @@
   "username": "Khokon0123",
   "days": [
     {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-10-26",
       "count": 0,
       "level": 0
@@ -1853,14 +1818,19 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total_last_year": 292,
+    "total_last_year": 293,
     "current_streak": 0,
-    "longest_streak": 46,
+    "longest_streak": 47,
     "best_day": {
       "date": "2026-02-09",
       "count": 14
@@ -1878,8 +1848,8 @@
       "2026-07": 26,
       "2026-08": 26,
       "2026-09": 39,
-      "2026-10": 36
+      "2026-10": 37
     },
-    "generated_at": "2026-10-24T10:54:38.762588+00:00"
+    "generated_at": "2026-10-25T11:21:24.237184+00:00"
   }
 }
