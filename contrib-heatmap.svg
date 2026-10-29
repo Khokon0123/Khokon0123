@@ -569,7 +569,7 @@
 
     <rect x="128" y="100" width="11" height="11" rx="2" ry="2"
           fill="#39d353" opacity="0">
-      <title>12 contributions on 2025-12-20</title>
+      <title>11 contributions on 2025-12-20</title>
       <animate attributeName="opacity" from="0" to="1"
                begin="0.078s" dur="0.35s" fill="freeze" />
       <animate attributeName="y" from="100" to="108"
@@ -1078,7 +1078,7 @@
     </rect>
 
     <rect x="240" y="30" width="11" height="11" rx="2" ry="2"
-          fill="#69f0a0" opacity="0">
+          fill="#39d353" opacity="0">
       <title>14 contributions on 2026-02-09</title>
       <animate attributeName="opacity" from="0" to="1"
                begin="0.096s" dur="0.35s" fill="freeze" />
@@ -3688,12 +3688,22 @@
     </rect>
 
     <rect x="758" y="58" width="11" height="11" rx="2" ry="2"
-          fill="#39d353" opacity="0">
-      <title>11 contributions on 2026-10-28</title>
+          fill="#69f0a0" opacity="0">
+      <title>15 contributions on 2026-10-28</title>
       <animate attributeName="opacity" from="0" to="1"
                begin="0.33s" dur="0.35s" fill="freeze" />
       <animate attributeName="y" from="58" to="66"
                begin="0.33s" dur="0.35s" fill="freeze"
+               calcMode="spline" keySplines="0.2 0 0.2 1" />
+    </rect>
+
+    <rect x="758" y="72" width="11" height="11" rx="2" ry="2"
+          fill="#161b22" opacity="0">
+      <title>0 contributions on 2026-10-29</title>
+      <animate attributeName="opacity" from="0" to="1"
+               begin="0.336s" dur="0.35s" fill="freeze" />
+      <animate attributeName="y" from="72" to="80"
+               begin="0.336s" dur="0.35s" fill="freeze"
                calcMode="spline" keySplines="0.2 0 0.2 1" />
     </rect>
   </g>
@@ -3704,5 +3714,5 @@
 <rect x="680" y="136" width="10" height="10" rx="2" fill="#26a641" />
 <rect x="696" y="136" width="10" height="10" rx="2" fill="#39d353" />
 <text x="716" y="145" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7d8590">More</text></g>
-  <text x="30" y="145" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c9d1d9">308 contributions in the last year - current streak 51d - longest 51d</text>
+  <text x="30" y="145" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c9d1d9">311 contributions in the last year - current streak 0d - longest 51d</text>
 </svg>
